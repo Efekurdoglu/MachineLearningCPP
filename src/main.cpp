@@ -1,6 +1,6 @@
 #include "data.h"
 #include "data_handler.h"
-
+#include <iostream>
 int main()
 {
     data_handler *dh = new data_handler();
