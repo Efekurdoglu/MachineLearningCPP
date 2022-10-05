@@ -1,4 +1,0 @@
-/home/harfleurlex/MachineLearningCPP/build/CMakeFiles/libraries.dir
-/home/harfleurlex/MachineLearningCPP/build/CMakeFiles/main.dir
-/home/harfleurlex/MachineLearningCPP/build/CMakeFiles/edit_cache.dir
-/home/harfleurlex/MachineLearningCPP/build/CMakeFiles/rebuild_cache.dir
